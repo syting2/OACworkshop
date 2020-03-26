@@ -4,7 +4,7 @@
 
 In this round, you will provision a new ADW instance
 
-## **Login to Oracle Cloud to create ADW Instance**
+### **Get in to OCI Portal to create ADW Instance**
 
 <table>
 <thead>
