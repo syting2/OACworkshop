@@ -8,7 +8,7 @@ Infrastructure Cloud (OCI).
 
 There will be two labs in this workshop.
 
-**Lab 1: Analyst Data Using Oracle Analytic Cloud**
+# **<a href ="https://github.com/syting2/OACworkshop/blob/TW_Workshop/OAC/01-OAC.md">Lab 1: Analyst Data Using Oracle Analytic Cloud</a>**
 
 In this lab, you will access Oracle Analytics Cloud dashboard that
 created for a Finance Persona.
