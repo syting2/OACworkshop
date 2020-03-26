@@ -1,6 +1,6 @@
-**Lab 2 - Provisioning Autonomous Data Warehouse**
+# **Lab 2 - Provisioning Autonomous Data Warehouse**
 
-# **Round 1 – Easy – Provisioning an ADW Instance**
+## **Round 1 – Easy – Provisioning an ADW Instance**
 
 In this round, you will provision a new ADW instance
 
