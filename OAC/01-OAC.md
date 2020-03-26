@@ -1,6 +1,4 @@
-![](.//media/image1.png)
-
-**Analyst Data Using Oracle Analytic Cloud**
+## Analyst Data Using Oracle Analytic Cloud
 
 In this round, you will analyze finance data from Oracle Autonomous Data
 Warehouse using Oracle Analytics Cloud based on a dashboard created for
@@ -210,4 +208,4 @@ start doing your own analysis.
 </tbody>
 </table>
 
-### You are now ready to move to the next lab -<a href="https://github.com/syting2/OACworkshop/blob/TW_Workshop/ADW/02-ADW.md"> Lab 2: Provision ADW </a>
+### Congratulation !! You have finsihed Lab 1. You are now ready to move to the next lab -<a href="https://github.com/syting2/OACworkshop/blob/TW_Workshop/ADW/02-ADW.md"> Lab 2: Provision ADW </a>
