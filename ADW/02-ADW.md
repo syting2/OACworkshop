@@ -1,8 +1,4 @@
-![](.//media/image1.png)
-
-**Provisioning Autonomous Data Warehouse**
-
-# **Round 1 – Easy – Provisioning an ADW Instance**
+# **Lab 2 - Provisioning Autonomous Data Warehouse**
 
 In this round, you will provision a new ADW instance
 
