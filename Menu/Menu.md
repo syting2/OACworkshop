@@ -18,5 +18,5 @@ analysis from your Oracle Analytic Cloud<span class="underline">.</span>
 
 ### **<a href ="https://github.com/syting2/OACworkshop/blob/TW_Workshop/ADW/02-ADW.md">Lab 2 - Provisioning Autonomous Data Warehouse</a>**
 
-You will build a provision a new ADW instance and do the scaling for
+You will provision a new ADW instance and do the scaling for
 ADW.
