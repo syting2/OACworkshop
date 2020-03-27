@@ -20,7 +20,7 @@ start doing your own analysis.
 <tr class="odd">
 <td><img src=".//media/image2.png" style="width:4.72153in;height:2.38958in" /></td>
 <td><ol type="1">
-  <li><p>Open your network browser and log in to <a href ="oracle.com">oracle.com.</a></p></li>
+  <li><p>Open your network browser and log in to <a href ="https://www.oracle.com/index.html"target="_blank">oracle.com.</a></p></li>
 <li><p>Click on View Accounts and Sign to Cloud</p></li>
 </ol></td>
 </tr>
