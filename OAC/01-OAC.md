@@ -1,6 +1,4 @@
-![](.//media/image1.png)
-
-**Analyst Data Using Oracle Analytic Cloud**
+## **Lab 1: Analysing Data Using Oracle Analytic Cloud**
 
 In this round, you will analyze finance data from Oracle Autonomous Data
 Warehouse using Oracle Analytics Cloud based on a dashboard created for
