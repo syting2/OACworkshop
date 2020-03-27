@@ -1,6 +1,6 @@
 ![](.//media/image1.png)
 
-Introduction
+### Introduction
 
 This lab walks you through the steps to get started using the Oracle
 Analytic Cloud and Oracle Autonomous Data Warehouse (ADW) on Oracle
