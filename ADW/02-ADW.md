@@ -2,7 +2,7 @@
 
 In this round, you will provision a new ADW instance
 
-# **Login to Oracle Cloud to create ADW Instance**
+## **Login to Oracle Cloud to create ADW Instance**
 
 <table>
 <thead>
