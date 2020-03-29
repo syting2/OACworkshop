@@ -119,7 +119,7 @@ start doing your own analysis.
 <td><ol type="1">
 <li><p>Click on Drop Data file here or click to browse</p></li>
 <li><p>Select the “Expense Summary - Finance Manager.xlsx” file provided</p></li>
-  <li><p><a href ="https://raw.githubusercontent.com/syting2/OACworkshop/TW_Workshop/Expense%20Summary%20-%20Finance%20Manager.xlsx">Click here to download the Excel File </a></p></li>
+  <p><a href ="https://raw.githubusercontent.com/syting2/OACworkshop/TW_Workshop/Expense%20Summary%20-%20Finance%20Manager.xlsx">Click here to download the Excel File </a></p>
 </ol></td>
 </tr>
 <tr class="odd">
