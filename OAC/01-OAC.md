@@ -212,4 +212,4 @@ start doing your own analysis.
 </tbody>
 </table>
 
-### Congratulation\!\! You have finsihed Lab 1. You are now ready to move to the next lab - <a href ="https://github.com/syting2/OACworkshop/blob/TW_Workshop/ADW/02-ADW.md">Lab 2: Provisioning ADW</a>
+### Congratulation\!\! You have finsihed Lab 1. You are now ready to move to the next lab - <a href ="https://github.com/syting2/OACworkshop/blob/TW_Workshop/ADW/02-ADW.md">Lab 2 - Provisioning Autonomous Data Warehouse</a>
