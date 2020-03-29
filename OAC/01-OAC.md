@@ -1,4 +1,4 @@
-## **Lab 1: Analysing Data Using Oracle Analytic Cloud**
+## **Lab 1 - Analysing Data Using Oracle Analytic Cloud**
 
 In this round, you will analyze finance data from Oracle Autonomous Data
 Warehouse using Oracle Analytics Cloud based on a dashboard created for
@@ -119,6 +119,7 @@ start doing your own analysis.
 <td><ol type="1">
 <li><p>Click on Drop Data file here or click to browse</p></li>
 <li><p>Select the “Expense Summary - Finance Manager.xlsx” file provided</p></li>
+  <li><p><a href ="https://raw.githubusercontent.com/syting2/OACworkshop/TW_Workshop/Expense%20Summary%20-%20Finance%20Manager.xlsx">Click here to download the Excel File </a></p></li>
 </ol></td>
 </tr>
 <tr class="odd">
