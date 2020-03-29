@@ -11,7 +11,7 @@ The following labs require an Oracle Public Cloud account. You may use your own 
 
 #### There will be two labs in this workshop.
 
-### **<a href ="https://github.com/syting2/OACworkshop/blob/TW_Workshop/OAC/01-OAC.md">Lab 1: Analysing Data Using Oracle Analytic Cloud</a>**
+### **<a href ="https://github.com/syting2/OACworkshop/blob/TW_Workshop/OAC/01-OAC.md">Lab 1 - Analysing Data Using Oracle Analytic Cloud</a>**
 
 In this lab, you will access Oracle Analytics Cloud dashboard that
 created for a Finance Persona.
