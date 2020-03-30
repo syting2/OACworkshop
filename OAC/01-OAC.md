@@ -117,9 +117,10 @@ start doing your own analysis.
 <tr class="even">
 <td><img src=".//media/image18.png" style="width:4.72153in;height:2.5875in" /></td>
 <td><ol type="1">
+ <li><p>Dowload the excel file<a href ="https://raw.githubusercontent.com/syting2/OACworkshop/TW_Workshop/Expense%20Summary%20-%20Finance%20Manager.xlsx">Click here to download the Excel File </a></p><li>
 <li><p>Click on Drop Data file here or click to browse</p></li>
-<li><p>Select the “Expense Summary - Finance Manager.xlsx” file provided</p></li>
-  <p><a href ="https://raw.githubusercontent.com/syting2/OACworkshop/TW_Workshop/Expense%20Summary%20-%20Finance%20Manager.xlsx">Click here to download the Excel File </a></p>
+<li><p>Select the “Expense Summary - Finance Manager.xlsx” file you just downloaded</p></li>
+  
 </ol></td>
 </tr>
 <tr class="odd">
