@@ -7,7 +7,7 @@ Analytic Cloud and Oracle Autonomous Data Warehouse (ADW) on Oracle
 Infrastructure Cloud (OCI).
 
 ### Prerequisites
-The following labs require an Oracle Public Cloud account. You may use your own cloud account, or a cloud account that you obtained through a trial. However, if you do not have an account, please navigate to the following page to acquire an Oracle Cloud Trial Account <a href = "https://github.com/kwanwan/weblogic-operator-tutorial/blob/CloudShell/tutorials/trial.account.md">Acquire a Trial Account.</a>
+The following labs require an Oracle Public Cloud account. You may use your own cloud account, or a cloud account that you obtained through a trial. However, if you do not have an account, please navigate to the following page to acquire an Oracle Cloud Trial Account. Refer to: <a href = "https://github.com/kwanwan/weblogic-operator-tutorial/blob/CloudShell/tutorials/trial.account.md">Acquire a Trial Account.</a>
 
 #### There will be two labs in this workshop.
 
