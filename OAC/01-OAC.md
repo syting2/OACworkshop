@@ -46,7 +46,7 @@ start doing your own analysis.
 <tr class="even">
 <td><img src=".//media/image5.png" style="width:4.72153in;height:1.84236in" /></td>
 <td><ol type="1">
-<li><p>You will be log in to your Oracle cloud account</p></li>
+<li><p>You will be see a page like this Click on Menu button and chose Infrastructure</p></li>
 </ol></td>
 </tr>
 <tr class="odd">
