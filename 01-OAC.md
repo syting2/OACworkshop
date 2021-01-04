@@ -1,4 +1,4 @@
-**Analyst Data Using Oracle Analytic Cloud**
+## Analyst Data Using Oracle Analytic Cloud**
 
 In this round, you will analyze finance data  using Oracle Analytics Cloud based on a dashboard created for
 a Finance Manager.
@@ -19,46 +19,11 @@ start doing your own analysis.
 <tr class="odd">
 <td><img src=".//media/image2.png" style="width:4.72153in;height:2.38958in" /></td>
 <td><ol type="1">
-<li><p>Open your network browser and log in to oracle.com.</p></li>
-<li><p>Click on View Accounts and Sign to Cloud</p></li>
-</ol></td>
-</tr>
-<tr class="even">
-<td><img src=".//media/image3.png" style="width:4.72153in;height:2.23472in" /></td>
-<td><ol type="1">
-<li><p>Put in your Cloud Account Name</p></li>
-</ol></td>
-</tr>
-<tr class="odd">
-<td><img src=".//media/image4.png" style="width:3.51389in;height:2.74128in" /></td>
-<td><ol type="1">
-<li><p>Type in the User Name: <strong>&lt;&lt;user_id&gt;&gt;</strong> and password: <strong>&lt;&lt;password&gt;&gt;</strong></p></li>
-<li><p>Click Sign In</p></li>
-</ol></td>
-</tr>
-<tr class="even">
-<td><img src=".//media/image5.png" style="width:4.72153in;height:1.84236in" /></td>
-<td><ol type="1">
-<li><p>You will be log in to your Oracle cloud account</p></li>
-</ol></td>
-</tr>
-<tr class="odd">
-<td><img src=".//media/image6.png" style="width:4.72153in;height:1.80625in" /></td>
-<td><ol type="1">
-<li><p>Click <img src=".//media/image7.png" style="width:0.35412in;height:0.32193in" /> on top left to expand service menu and click on Analytics.</p></li>
-<li><p>Then Chose Analytic Cloud</p></li>
-</ol></td>
-</tr>
-<tr class="even">
-<td><img src=".//media/image8.png" style="width:4.72153in;height:1.80208in" /></td>
-<td><ol type="1">
-<li><p>You will see a page like this</p></li>
-</ol></td>
-</tr>
-<tr class="odd">
-<td><img src=".//media/image9.png" style="width:4.72153in;height:1.80833in" /></td>
-<td><ol type="1">
-<li><p>Click on the button and click on Open URL.</p></li>
+<li><p>Paste the OAC link in your webpage.</p></li>
+<li><p>Provide the information</p></li>
+<p>User Name : userXX.</p>
+<p>Password: Paste the Password in the email </p>
+<li><p>Click “Sign In“ button</p></li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -210,4 +175,3 @@ start doing your own analysis.
 </tbody>
 </table>
 
-### Congratulation\!\! You have finsihed Lab 1. You are now ready to move to the next lab - Lab 2: Provisioning ADW
