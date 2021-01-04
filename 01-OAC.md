@@ -19,7 +19,7 @@ start doing your own analysis.
 <tr class="odd">
 <td><img src=".//media/image33.png" style="width:4.72153in;height:2.38958in" /></td>
 <td><ol type="1">
-<li><p>Paste the OAC link in your webpage.</p></li>
+<li><p>Go to <a href="https://bit.ly/3hF9nCy">OAC Workshop Link</a></p></li> 
 <li><p>Provide the information</p></li>
 <p>User Name : userXX.</p>
 <p>Password: Paste the Password in the email </p>
