@@ -1,9 +1,6 @@
-![](.//media/image1.png)
-
 **Analyst Data Using Oracle Analytic Cloud**
 
-In this round, you will analyze finance data from Oracle Autonomous Data
-Warehouse using Oracle Analytics Cloud based on a dashboard created for
+In this round, you will analyze finance data  using Oracle Analytics Cloud based on a dashboard created for
 a Finance Manager.
 
 You will also see how you can upload a sample Excel file into ADW and
