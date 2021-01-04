@@ -1,4 +1,4 @@
-## Analyst Data Using Oracle Analytic Cloud**
+## Analyst Data Using Oracle Analytic Cloud
 
 In this round, you will analyze finance data  using Oracle Analytics Cloud based on a dashboard created for
 a Finance Manager.
