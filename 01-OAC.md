@@ -52,7 +52,7 @@ start doing your own analysis.
 </tbody>
 </table>
 
-## Upload an Excel file to Oracle Autonomous Data Warehouse
+## Upload an Excel file to Oracle Analytic Cloud
 
 <table>
 <thead>
