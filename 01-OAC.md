@@ -65,6 +65,7 @@ start doing your own analysis.
 <tr class="odd">
 <td><img src=".//media/image14.png" style="width:4.66468in;height:1.9375in" /></td>
 <td><ol type="1">
+<li><p>Download your Sample data here <a href="https://objectstorage.ap-mumbai-1.oraclecloud.com/n/idxkccw2srke/b/bucket-20210104-1835/o/Expense%20Summary%20-%20Finance%20Manager.xlsx">Expense Summary - Finance Manager.xlsx</a></p></li> 
 <li><p>Click on the “Navigator” Menu at the top left and select Home</p></li>
 </ol></td>
 </tr>
@@ -80,7 +81,7 @@ start doing your own analysis.
 </tr>
 <tr class="even">
 <td><img src=".//media/image18.png" style="width:4.72153in;height:2.5875in" /></td>
-<td><ol type="1">
+<td><ol type="1"> 
 <li><p>Click on Drop Data file here or click to browse</p></li>
 <li><p>Select the “Expense Summary - Finance Manager.xlsx” file provided</p></li>
 </ol></td>
