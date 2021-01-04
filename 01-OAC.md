@@ -17,7 +17,7 @@ start doing your own analysis.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src=".//media/image1.png" style="width:4.72153in;height:2.38958in" /></td>
+<td><img src=".//media/image33.png" style="width:4.72153in;height:2.38958in" /></td>
 <td><ol type="1">
 <li><p>Paste the OAC link in your webpage.</p></li>
 <li><p>Provide the information</p></li>
