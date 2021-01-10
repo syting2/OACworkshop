@@ -1,10 +1,12 @@
 ## Analyst Data Using Oracle Analytic Cloud
 
-In this round, you will analyze finance data  using Oracle Analytics Cloud based on a dashboard created for
-a Finance Manager.
+In this round, you will 
 
-You will also see how you can upload a sample Excel file into ADW and
-start doing your own analysis.
+1. See how Marketing Manager and Financial Manager analyst their data using Oracle Analytic Cloud. 
+
+2. You will also see how you can upload a sample Excel file into OAC.
+
+3. Analyst the sample Excel file and start doing your own analysis.
 
 ## Access to Finance Manager Dashboard
 
