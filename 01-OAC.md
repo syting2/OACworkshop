@@ -8,7 +8,7 @@ In this round, you will
 
 3. Analyst the sample Excel file and start doing your own analysis.
 
-## 1. Access to Finance Manager Dashboard
+## 1. Access to OAC Dashboard
 
 <table>
 <thead>
