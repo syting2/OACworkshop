@@ -8,7 +8,7 @@ In this round, you will
 
 3. Analyst the sample Excel file and start doing your own analysis.
 
-## Access to Finance Manager Dashboard
+## 1. Access to Finance Manager Dashboard
 
 <table>
 <thead>
@@ -54,7 +54,7 @@ In this round, you will
 </tbody>
 </table>
 
-## Upload an Excel file to Oracle Analytic Cloud
+## 2. Upload an Excel file to Oracle Analytic Cloud
 
 <table>
 <thead>
@@ -103,7 +103,7 @@ In this round, you will
 </tbody>
 </table>
 
-## Analyze Expenses data with OAC
+## 3. Analyze Expenses data with OAC
 
 <table>
 <thead>
